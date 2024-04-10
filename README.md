@@ -1,12 +1,13 @@
 # Inventor API
 
-The ExtrudeCommand application is a simple program that demonstrates how to create a part document, sketch a rectangle, and perform an extrusion using the Autodesk Inventor API.
+The ExtrudeCommand application is a simple program that makes a part document,does a sketch and extrudes it.
 
 ## Prerequisites
 
 Make sure you have the following prerequisites installed before running the application:
 
 - Autodesk Inventor must be installed on your machine.
+- Visual Studio to run the soultion.
 
 ## Getting Started
 
@@ -14,9 +15,9 @@ Make sure you have the following prerequisites installed before running the appl
 
 2. Run the application.
 
-3. Click the "Connect to Inventor" button to establish a connection to the running instance of Autodesk Inventor. A message will indicate whether the connection was successful or if Inventor is not running.
+3. Click the "Establish Connection" button to establish a connection to the running instance of Autodesk Inventor. A message will indicate whether the connection was successful or if Inventor is not running.
 
-4. Click the "Create Extruded Part" button to create a new part document, sketch a rectangle, and perform an extrusion.
+4. Click the "Extrude" button to create a new part document, sketch a rectangle, and perform an extrusion.
 
 ## Functionality
 
